@@ -235,7 +235,7 @@ Some modules work better with API keys (not required for basic use):
 
 ## License
 
-MIT License — see individual module files for attribution.
+Apache License 2.0 — see individual module files for attribution.
 
 ---
 
